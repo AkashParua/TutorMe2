@@ -34,7 +34,7 @@ https://github.com/AkashParua/TutorMe2.git
 2. Navigate to the project directory -> StreamImplementation:
 
 ```
-cd The-CheatGPT
+cd TutorMe2
 ```
 
 3. Install the required dependencies:
